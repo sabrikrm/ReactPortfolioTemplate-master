@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "./static/css/main.06a343f6.css",
-    "main.js": "./static/js/main.965005aa.js",
-    "static/media/mock2.png": "./static/media/mock2.465ceb385a2ad0df947c.png",
-    "static/media/mock5.png": "./static/media/mock5.c9b5f54e8517e13fc897.png",
-    "static/media/mock3.png": "./static/media/mock3.a511f61a09a56b6f5ae3.png",
-    "static/media/mock4.png": "./static/media/mock4.0873a1067f7230bacd82.png",
-    "static/media/mock1.png": "./static/media/mock1.e171977dce378a3268e8.png",
-    "static/media/self.png": "./static/media/self.5dacd7458659b5bd3d5e.png",
-    "index.html": "./index.html",
-    "main.06a343f6.css.map": "./static/css/main.06a343f6.css.map",
-    "main.965005aa.js.map": "./static/js/main.965005aa.js.map"
+    "main.css": "/ReactPortfolioTemplate-master/static/css/main.06a343f6.css",
+    "main.js": "/ReactPortfolioTemplate-master/static/js/main.525f456e.js",
+    "static/media/mock2.png": "/ReactPortfolioTemplate-master/static/media/mock2.465ceb385a2ad0df947c.png",
+    "static/media/mock5.png": "/ReactPortfolioTemplate-master/static/media/mock5.c9b5f54e8517e13fc897.png",
+    "static/media/mock3.png": "/ReactPortfolioTemplate-master/static/media/mock3.a511f61a09a56b6f5ae3.png",
+    "static/media/mock4.png": "/ReactPortfolioTemplate-master/static/media/mock4.0873a1067f7230bacd82.png",
+    "static/media/mock1.png": "/ReactPortfolioTemplate-master/static/media/mock1.e171977dce378a3268e8.png",
+    "static/media/self.png": "/ReactPortfolioTemplate-master/static/media/self.5dacd7458659b5bd3d5e.png",
+    "index.html": "/ReactPortfolioTemplate-master/index.html",
+    "main.06a343f6.css.map": "/ReactPortfolioTemplate-master/static/css/main.06a343f6.css.map",
+    "main.525f456e.js.map": "/ReactPortfolioTemplate-master/static/js/main.525f456e.js.map"
   },
   "entrypoints": [
     "static/css/main.06a343f6.css",
-    "static/js/main.965005aa.js"
+    "static/js/main.525f456e.js"
   ]
 }
