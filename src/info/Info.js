@@ -124,7 +124,7 @@ export const info = {
         },
         {
             title: "724 Events",
-            live: ".",
+            live: "https://sabrikrm.github.io/Debuggez-une-application-React.JS-main/",
             source: "https://github.com/sabrikrm/Debuggez-une-application-React.JS-main",
             image: mock2,
              tech: ["React", "Debuggage", "Node.js", "cahier de recette", "Sass"] 
@@ -132,7 +132,7 @@ export const info = {
         {
             title: "Sophie Bluel",
             live: "https://sabrikrm.github.io/sabri-p8-nina-carducci-master/",
-            source: "https://github.com/sabrikrm/sabri-p8-nina-carducci-master",
+            source: "https://sabrikrm.github.io/sabri-p8-nina-carducci-master/",
             image: mock3,
              tech: ["SEO", "Referencement", "Optimisation", "Accessibilité"] 
         },
