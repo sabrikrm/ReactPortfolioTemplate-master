@@ -117,14 +117,14 @@ export const info = {
     portfolio: [ // This is where your portfolio projects will be detailed
         {
             title: "Project ArgentBank",
-            live: "https://paytonpierce.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+            live: ".", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
             source: "https://github.com/sabrikrm/ArgentBank-Frontend-Backend-main", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock1,
               tech: ["Redux", "React", "Vite", "MongoDB"] 
         },
         {
             title: "724 Events",
-            live: "https://paytonpierce.dev",
+            live: ".",
             source: "https://github.com/sabrikrm/Debuggez-une-application-React.JS-main",
             image: mock2,
              tech: ["React", "Debuggage", "Node.js", "cahier de recette", "Sass"] 
