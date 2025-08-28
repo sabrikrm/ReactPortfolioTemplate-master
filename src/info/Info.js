@@ -119,31 +119,30 @@ export const info = {
             title: "Project ArgentBank",
             live: "https://paytonpierce.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
             source: "https://github.com/sabrikrm/ArgentBank-Frontend-Backend-main", // this should be a link to the **repository** of the project, where the code is hosted.
-            image: mock1
+            image: mock1,
+              tech: ["Redux", "React", "Vite", "MongoDB"] 
         },
         {
             title: "724 Events",
             live: "https://paytonpierce.dev",
             source: "https://github.com/sabrikrm/Debuggez-une-application-React.JS-main",
-            image: mock2
+            image: mock2,
+             tech: ["React", "Debuggage", "Node.js", "cahier de recette", "Sass"] 
         },
         {
-            title: "Project 3",
+            title: "Sophie Bluel",
             live: "https://sabrikrm.github.io/sabri-p8-nina-carducci-master/",
             source: "https://github.com/sabrikrm/sabri-p8-nina-carducci-master",
-            image: mock3
+            image: mock3,
+             tech: ["SEO", "Referencement", "Optimisation", "Accessibilité"] 
         },
         {
             title: "Oh my food",
             live: "https://sabrikrm.github.io/ohmyfood-main-1/",
             source: "https://github.com/sabrikrm/ohmyfood-main-1",
-            image: mock4
+            image: mock4,
+             tech: ["Javascript", "Modal", "Node.js","Css"] 
         },
-        {
-            title: "Project 5",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock5
-        }
+       
     ]
 }
