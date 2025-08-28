@@ -2,7 +2,7 @@
   "name": "portfolioTemplate",
   "version": "2.0.0",
   "private": true,
-  "homepage": "https://sabrikrm.github.io/ReactPortfolioTemplate-master",
+  "homepage": ".",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@emotion/react": "^11.9.0",
